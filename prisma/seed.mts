@@ -1,7 +1,7 @@
+// @ts-nocheck
 import "dotenv/config";
-import client from "../src/generated/prisma/client.ts";
+import { PrismaClient } from "../src/generated/prisma/client.ts";
 
-const { PrismaClient } = client as any;
 const prisma = new PrismaClient();
 
 const conditions = [
@@ -71,7 +71,7 @@ async function main() {
 }
 
 main()
-  .catch((e: unknown) => {
+  .catch((e) => {
     console.error(e);
     process.exit(1);
   })
