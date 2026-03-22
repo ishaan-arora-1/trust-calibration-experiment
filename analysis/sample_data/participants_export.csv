@@ -1,0 +1,121 @@
+participant_id,condition,status,demographics,trials_completed,trust_responses,started_at,completed_at
+P-F88A8CC5,control,completed,"{""ageRange"": ""55-64"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-22T05:07:00,2026-03-22T05:31:00
+P-FB7BD178,control,completed,"{""ageRange"": ""18-24"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T06:05:00,2026-03-16T06:18:00
+P-3B537041,control,completed,"{""ageRange"": ""35-44"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-20T02:53:00,2026-03-20T03:14:00
+P-0ED561B9,control,completed,"{""ageRange"": ""18-24"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-20T20:30:00,2026-03-20T20:52:00
+P-48FFB31E,control,completed,"{""ageRange"": ""55-64"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-23T17:52:00,2026-03-23T18:16:00
+P-674A78E2,control,completed,"{""ageRange"": ""45-54"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-23T13:13:00,2026-03-23T13:37:00
+P-2711BC43,control,completed,"{""ageRange"": ""65+"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-24T15:09:00,2026-03-24T15:26:00
+P-99F5FB4F,control,completed,"{""ageRange"": ""55-64"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-18T07:53:00,2026-03-18T08:09:00
+P-EC2034EE,control,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-23T21:44:00,2026-03-23T22:02:00
+P-EF1EC163,control,completed,"{""ageRange"": ""45-54"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-18T00:27:00,2026-03-18T00:39:00
+P-C4641DE3,control,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-24T01:50:00,2026-03-24T02:07:00
+P-620F9A4A,control,completed,"{""ageRange"": ""55-64"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-23T22:33:00,2026-03-23T22:54:00
+P-5D3FE5AA,control,completed,"{""ageRange"": ""55-64"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-19T00:53:00,2026-03-19T01:17:00
+P-AAA6D148,control,completed,"{""ageRange"": ""25-34"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-15T18:36:00,2026-03-15T18:53:00
+P-877C680D,control,completed,"{""ageRange"": ""45-54"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-18T04:41:00,2026-03-18T04:56:00
+P-D8F5D2A1,control,completed,"{""ageRange"": ""35-44"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-22T06:42:00,2026-03-22T07:02:00
+P-5C7C46E0,control,completed,"{""ageRange"": ""35-44"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-18T14:43:00,2026-03-18T14:57:00
+P-E0038AE6,control,completed,"{""ageRange"": ""65+"", ""education"": ""Some college"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-21T13:50:00,2026-03-21T14:03:00
+P-880B4FBF,control,completed,"{""ageRange"": ""18-24"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T21:36:00,2026-03-16T21:55:00
+P-A014A439,control,completed,"{""ageRange"": ""18-24"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-16T07:23:00,2026-03-16T07:36:00
+P-9BB8D339,control,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T18:47:00,2026-03-16T19:12:00
+P-D102B8B1,control,completed,"{""ageRange"": ""65+"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-19T05:25:00,2026-03-19T05:46:00
+P-5F3BCE5E,control,completed,"{""ageRange"": ""55-64"", ""education"": ""Some college"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-16T11:21:00,2026-03-16T11:45:00
+P-9CE0A2AF,control,completed,"{""ageRange"": ""25-34"", ""education"": ""Some college"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-18T14:05:00,2026-03-18T14:27:00
+P-AF1BE1FC,control,completed,"{""ageRange"": ""65+"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T19:41:00,2026-03-16T19:53:00
+P-ADDF9D71,control,completed,"{""ageRange"": ""35-44"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-18T12:29:00,2026-03-18T12:42:00
+P-E47E9B38,control,completed,"{""ageRange"": ""35-44"", ""education"": ""Some college"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-22T13:55:00,2026-03-22T14:17:00
+P-668BBF9F,control,completed,"{""ageRange"": ""18-24"", ""education"": ""Some college"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-19T20:43:00,2026-03-19T21:08:00
+P-BCEA45E4,control,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-22T17:09:00,2026-03-22T17:32:00
+P-4D3E8BBD,control,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-21T04:30:00,2026-03-21T04:54:00
+P-A436E55A,humanlike,completed,"{""ageRange"": ""55-64"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-20T00:33:00,2026-03-20T00:58:00
+P-8B754FA2,humanlike,completed,"{""ageRange"": ""65+"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-15T17:30:00,2026-03-15T17:52:00
+P-FFD1EE9B,humanlike,completed,"{""ageRange"": ""25-34"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-16T06:24:00,2026-03-16T06:36:00
+P-063539FD,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-23T22:31:00,2026-03-23T22:53:00
+P-4F2ECA2D,humanlike,completed,"{""ageRange"": ""25-34"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-17T15:41:00,2026-03-17T15:55:00
+P-7E0F099B,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-20T13:35:00,2026-03-20T13:49:00
+P-CD14315D,humanlike,completed,"{""ageRange"": ""65+"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-18T19:56:00,2026-03-18T20:12:00
+P-9CBDEDFB,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-21T21:56:00,2026-03-21T22:10:00
+P-2DF8BC90,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-24T15:50:00,2026-03-24T16:03:00
+P-B24A5E42,humanlike,completed,"{""ageRange"": ""65+"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-20T13:24:00,2026-03-20T13:46:00
+P-9031E4A3,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-20T10:36:00,2026-03-20T10:58:00
+P-649798A0,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-16T01:16:00,2026-03-16T01:30:00
+P-89342D3D,humanlike,completed,"{""ageRange"": ""25-34"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-21T14:02:00,2026-03-21T14:23:00
+P-E018D64A,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-22T20:52:00,2026-03-22T21:16:00
+P-9EBF7239,humanlike,completed,"{""ageRange"": ""25-34"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-22T00:59:00,2026-03-22T01:17:00
+P-7B87DC71,humanlike,completed,"{""ageRange"": ""18-24"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-18T04:40:00,2026-03-18T04:59:00
+P-79602E86,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-19T12:18:00,2026-03-19T12:43:00
+P-A367284B,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-20T10:37:00,2026-03-20T11:00:00
+P-9330B13C,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""Some college"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-16T00:31:00,2026-03-16T00:45:00
+P-F354C175,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-17T22:39:00,2026-03-17T23:00:00
+P-24C2B1C6,humanlike,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-19T13:49:00,2026-03-19T14:06:00
+P-6F841832,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-21T17:46:00,2026-03-21T17:58:00
+P-10BB80E1,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""Some college"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-20T01:03:00,2026-03-20T01:19:00
+P-A502FE70,humanlike,completed,"{""ageRange"": ""65+"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-25T00:21:00,2026-03-25T00:46:00
+P-E411270A,humanlike,completed,"{""ageRange"": ""18-24"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-16T03:19:00,2026-03-16T03:32:00
+P-CD33357C,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-15T23:52:00,2026-03-16T00:17:00
+P-2CDA99CC,humanlike,completed,"{""ageRange"": ""18-24"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-20T06:15:00,2026-03-20T06:39:00
+P-5EE23072,humanlike,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-18T16:47:00,2026-03-18T16:59:00
+P-32D79D36,humanlike,completed,"{""ageRange"": ""45-54"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-20T02:08:00,2026-03-20T02:28:00
+P-ACB4C1B8,humanlike,completed,"{""ageRange"": ""25-34"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-22T20:46:00,2026-03-22T20:58:00
+P-FA126171,authority,completed,"{""ageRange"": ""45-54"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-17T07:23:00,2026-03-17T07:46:00
+P-254EFDC9,authority,completed,"{""ageRange"": ""45-54"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-19T11:41:00,2026-03-19T12:05:00
+P-EBEAA41B,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-25T02:32:00,2026-03-25T02:52:00
+P-608DB04F,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-23T19:34:00,2026-03-23T19:54:00
+P-844CAEC6,authority,completed,"{""ageRange"": ""45-54"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-22T23:12:00,2026-03-22T23:29:00
+P-B5AB6FE6,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-15T21:36:00,2026-03-15T21:52:00
+P-5FF0C765,authority,completed,"{""ageRange"": ""25-34"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-21T05:18:00,2026-03-21T05:42:00
+P-6E676BE8,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-17T01:03:00,2026-03-17T01:22:00
+P-576C47F7,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-22T00:58:00,2026-03-22T01:14:00
+P-9220C198,authority,completed,"{""ageRange"": ""45-54"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T15:59:00,2026-03-16T16:12:00
+P-41B56CE3,authority,completed,"{""ageRange"": ""18-24"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-15T12:57:00,2026-03-15T13:16:00
+P-CD7B816A,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-20T06:31:00,2026-03-20T06:52:00
+P-F0DC0087,authority,completed,"{""ageRange"": ""55-64"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-17T18:46:00,2026-03-17T19:08:00
+P-A083DC69,authority,completed,"{""ageRange"": ""55-64"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-18T01:51:00,2026-03-18T02:04:00
+P-2F777597,authority,completed,"{""ageRange"": ""18-24"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-19T04:08:00,2026-03-19T04:31:00
+P-B78DECDD,authority,completed,"{""ageRange"": ""18-24"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-17T14:35:00,2026-03-17T14:55:00
+P-D91EB552,authority,completed,"{""ageRange"": ""65+"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-25T02:16:00,2026-03-25T02:36:00
+P-0247DA40,authority,completed,"{""ageRange"": ""18-24"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-24T08:36:00,2026-03-24T09:01:00
+P-49F80349,authority,completed,"{""ageRange"": ""25-34"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-25T05:07:00,2026-03-25T05:22:00
+P-5BA12F91,authority,completed,"{""ageRange"": ""55-64"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-15T19:54:00,2026-03-15T20:14:00
+P-B15E881C,authority,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-21T00:45:00,2026-03-21T01:09:00
+P-84302E06,authority,completed,"{""ageRange"": ""55-64"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-16T00:28:00,2026-03-16T00:47:00
+P-55AEF1A2,authority,completed,"{""ageRange"": ""25-34"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-19T16:19:00,2026-03-19T16:35:00
+P-F1A662AF,authority,completed,"{""ageRange"": ""45-54"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-22T17:23:00,2026-03-22T17:46:00
+P-84BFFB0F,authority,completed,"{""ageRange"": ""35-44"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-16T14:36:00,2026-03-16T14:57:00
+P-B73B979D,authority,completed,"{""ageRange"": ""25-34"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-17T02:36:00,2026-03-17T02:49:00
+P-39E7C6A0,authority,completed,"{""ageRange"": ""65+"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-18T15:06:00,2026-03-18T15:19:00
+P-0EB6FA17,authority,completed,"{""ageRange"": ""25-34"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-15T18:32:00,2026-03-15T18:52:00
+P-C5C6851F,authority,completed,"{""ageRange"": ""55-64"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-19T20:52:00,2026-03-19T21:17:00
+P-E5EC17EE,authority,completed,"{""ageRange"": ""25-34"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-21T00:38:00,2026-03-21T00:51:00
+P-7D06B8AA,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-23T19:28:00,2026-03-23T19:41:00
+P-A3AADDEF,humanlike_calibrated,completed,"{""ageRange"": ""45-54"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-20T09:17:00,2026-03-20T09:42:00
+P-4BA91775,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-23T21:25:00,2026-03-23T21:50:00
+P-09A4FBFA,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-16T07:48:00,2026-03-16T08:13:00
+P-B2EB6A16,humanlike_calibrated,completed,"{""ageRange"": ""35-44"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-20T03:01:00,2026-03-20T03:18:00
+P-65F7D0F6,humanlike_calibrated,completed,"{""ageRange"": ""65+"", ""education"": ""Some college"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-25T05:42:00,2026-03-25T06:00:00
+P-8BE90113,humanlike_calibrated,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-15T15:31:00,2026-03-15T15:43:00
+P-D90D9A76,humanlike_calibrated,completed,"{""ageRange"": ""18-24"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-18T21:39:00,2026-03-18T21:52:00
+P-E3D0179A,humanlike_calibrated,completed,"{""ageRange"": ""35-44"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-17T02:06:00,2026-03-17T02:27:00
+P-C9DF0DF4,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-23T22:06:00,2026-03-23T22:28:00
+P-D09355CE,humanlike_calibrated,completed,"{""ageRange"": ""65+"", ""education"": ""Some college"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-22T12:22:00,2026-03-22T12:44:00
+P-0DBB64A0,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-23T22:29:00,2026-03-23T22:45:00
+P-C8460478,humanlike_calibrated,completed,"{""ageRange"": ""45-54"", ""education"": ""Some college"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-16T02:28:00,2026-03-16T02:45:00
+P-53D63D75,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-19T15:15:00,2026-03-19T15:40:00
+P-D3D35FE0,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-21T04:32:00,2026-03-21T04:50:00
+P-57CC0C7A,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-18T18:58:00,2026-03-18T19:22:00
+P-62B1B1D4,humanlike_calibrated,completed,"{""ageRange"": ""35-44"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-19T13:51:00,2026-03-19T14:15:00
+P-5F181568,humanlike_calibrated,completed,"{""ageRange"": ""35-44"", ""education"": ""Some college"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-22T21:55:00,2026-03-22T22:11:00
+P-7F3B7EA1,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-15T10:09:00,2026-03-15T10:22:00
+P-C523343E,humanlike_calibrated,completed,"{""ageRange"": ""65+"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-21T17:57:00,2026-03-21T18:14:00
+P-2E7A27A5,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-20T10:03:00,2026-03-20T10:18:00
+P-D08B2048,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""Master's degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T07:58:00,2026-03-16T08:10:00
+P-B85BE3FE,humanlike_calibrated,completed,"{""ageRange"": ""18-24"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-19T18:02:00,2026-03-19T18:14:00
+P-116EE4C4,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-16T15:53:00,2026-03-16T16:12:00
+P-26B7C145,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-23T06:53:00,2026-03-23T07:18:00
+P-0763681C,humanlike_calibrated,completed,"{""ageRange"": ""35-44"", ""education"": ""Some college"", ""aiFamiliarity"": ""Regular use""}",15,7,2026-03-22T16:40:00,2026-03-22T17:04:00
+P-A08C7F7C,humanlike_calibrated,completed,"{""ageRange"": ""45-54"", ""education"": ""Bachelor's degree"", ""aiFamiliarity"": ""Some experience""}",15,7,2026-03-21T20:46:00,2026-03-21T21:05:00
+P-E2F64A96,humanlike_calibrated,completed,"{""ageRange"": ""65+"", ""education"": ""Doctoral degree"", ""aiFamiliarity"": ""No experience""}",15,7,2026-03-22T00:05:00,2026-03-22T00:30:00
+P-F7ADEBDA,humanlike_calibrated,completed,"{""ageRange"": ""25-34"", ""education"": ""Some college"", ""aiFamiliarity"": ""Minimal experience""}",15,7,2026-03-19T03:42:00,2026-03-19T04:00:00
+P-053DE3D3,humanlike_calibrated,completed,"{""ageRange"": ""55-64"", ""education"": ""High school or equivalent"", ""aiFamiliarity"": ""Expert / Professional""}",15,7,2026-03-22T03:41:00,2026-03-22T04:05:00

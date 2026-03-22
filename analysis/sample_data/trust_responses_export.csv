@@ -1,0 +1,841 @@
+participant_id,condition,scale_name,item_index,item_text,response,timestamp
+P-F88A8CC5,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T05:31:00
+P-F88A8CC5,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T05:31:00
+P-F88A8CC5,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-22T05:31:00
+P-F88A8CC5,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-22T05:31:00
+P-F88A8CC5,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T05:31:00
+P-F88A8CC5,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-22T05:31:00
+P-F88A8CC5,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-22T05:31:00
+P-FB7BD178,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-16T06:18:00
+P-FB7BD178,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-16T06:18:00
+P-FB7BD178,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T06:18:00
+P-FB7BD178,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-16T06:18:00
+P-FB7BD178,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-16T06:18:00
+P-FB7BD178,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T06:18:00
+P-FB7BD178,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T06:18:00
+P-3B537041,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-20T03:14:00
+P-3B537041,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-20T03:14:00
+P-3B537041,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T03:14:00
+P-3B537041,control,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-20T03:14:00
+P-3B537041,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-20T03:14:00
+P-3B537041,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-20T03:14:00
+P-3B537041,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-20T03:14:00
+P-0ED561B9,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-20T20:52:00
+P-0ED561B9,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-20T20:52:00
+P-0ED561B9,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T20:52:00
+P-0ED561B9,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-20T20:52:00
+P-0ED561B9,control,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-20T20:52:00
+P-0ED561B9,control,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-20T20:52:00
+P-0ED561B9,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-20T20:52:00
+P-48FFB31E,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-23T18:16:00
+P-48FFB31E,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-23T18:16:00
+P-48FFB31E,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-23T18:16:00
+P-48FFB31E,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T18:16:00
+P-48FFB31E,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-23T18:16:00
+P-48FFB31E,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-23T18:16:00
+P-48FFB31E,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-23T18:16:00
+P-674A78E2,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-23T13:37:00
+P-674A78E2,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-23T13:37:00
+P-674A78E2,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T13:37:00
+P-674A78E2,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T13:37:00
+P-674A78E2,control,trust_in_automation,4,I could depend on the AI assistant.,1,2026-03-23T13:37:00
+P-674A78E2,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-23T13:37:00
+P-674A78E2,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-23T13:37:00
+P-2711BC43,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-24T15:26:00
+P-2711BC43,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-24T15:26:00
+P-2711BC43,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-24T15:26:00
+P-2711BC43,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-24T15:26:00
+P-2711BC43,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-24T15:26:00
+P-2711BC43,control,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-24T15:26:00
+P-2711BC43,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-24T15:26:00
+P-99F5FB4F,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-18T08:09:00
+P-99F5FB4F,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T08:09:00
+P-99F5FB4F,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-18T08:09:00
+P-99F5FB4F,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-18T08:09:00
+P-99F5FB4F,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-18T08:09:00
+P-99F5FB4F,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-18T08:09:00
+P-99F5FB4F,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-18T08:09:00
+P-EC2034EE,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-23T22:02:00
+P-EC2034EE,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-23T22:02:00
+P-EC2034EE,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T22:02:00
+P-EC2034EE,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T22:02:00
+P-EC2034EE,control,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-23T22:02:00
+P-EC2034EE,control,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-23T22:02:00
+P-EC2034EE,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-23T22:02:00
+P-EF1EC163,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-18T00:39:00
+P-EF1EC163,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-18T00:39:00
+P-EF1EC163,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-18T00:39:00
+P-EF1EC163,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T00:39:00
+P-EF1EC163,control,trust_in_automation,4,I could depend on the AI assistant.,1,2026-03-18T00:39:00
+P-EF1EC163,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-18T00:39:00
+P-EF1EC163,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-18T00:39:00
+P-C4641DE3,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-24T02:07:00
+P-C4641DE3,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-24T02:07:00
+P-C4641DE3,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-24T02:07:00
+P-C4641DE3,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-24T02:07:00
+P-C4641DE3,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-24T02:07:00
+P-C4641DE3,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-24T02:07:00
+P-C4641DE3,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-24T02:07:00
+P-620F9A4A,control,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-23T22:54:00
+P-620F9A4A,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-23T22:54:00
+P-620F9A4A,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-23T22:54:00
+P-620F9A4A,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T22:54:00
+P-620F9A4A,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-23T22:54:00
+P-620F9A4A,control,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-23T22:54:00
+P-620F9A4A,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,5,2026-03-23T22:54:00
+P-5D3FE5AA,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-19T01:17:00
+P-5D3FE5AA,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-19T01:17:00
+P-5D3FE5AA,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T01:17:00
+P-5D3FE5AA,control,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-19T01:17:00
+P-5D3FE5AA,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-19T01:17:00
+P-5D3FE5AA,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-19T01:17:00
+P-5D3FE5AA,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-19T01:17:00
+P-AAA6D148,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-15T18:53:00
+P-AAA6D148,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-15T18:53:00
+P-AAA6D148,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-15T18:53:00
+P-AAA6D148,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-15T18:53:00
+P-AAA6D148,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-15T18:53:00
+P-AAA6D148,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-15T18:53:00
+P-AAA6D148,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-15T18:53:00
+P-877C680D,control,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-18T04:56:00
+P-877C680D,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T04:56:00
+P-877C680D,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-18T04:56:00
+P-877C680D,control,trust_in_automation,3,The AI assistant was competent at the task.,1,2026-03-18T04:56:00
+P-877C680D,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-18T04:56:00
+P-877C680D,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-18T04:56:00
+P-877C680D,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,5,2026-03-18T04:56:00
+P-D8F5D2A1,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T07:02:00
+P-D8F5D2A1,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T07:02:00
+P-D8F5D2A1,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-22T07:02:00
+P-D8F5D2A1,control,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-22T07:02:00
+P-D8F5D2A1,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-22T07:02:00
+P-D8F5D2A1,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T07:02:00
+P-D8F5D2A1,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-22T07:02:00
+P-5C7C46E0,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-18T14:57:00
+P-5C7C46E0,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T14:57:00
+P-5C7C46E0,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-18T14:57:00
+P-5C7C46E0,control,trust_in_automation,3,The AI assistant was competent at the task.,5,2026-03-18T14:57:00
+P-5C7C46E0,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-18T14:57:00
+P-5C7C46E0,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-18T14:57:00
+P-5C7C46E0,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-18T14:57:00
+P-E0038AE6,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-21T14:03:00
+P-E0038AE6,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-21T14:03:00
+P-E0038AE6,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-21T14:03:00
+P-E0038AE6,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-21T14:03:00
+P-E0038AE6,control,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-21T14:03:00
+P-E0038AE6,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-21T14:03:00
+P-E0038AE6,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-21T14:03:00
+P-880B4FBF,control,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T21:55:00
+P-880B4FBF,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T21:55:00
+P-880B4FBF,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T21:55:00
+P-880B4FBF,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-16T21:55:00
+P-880B4FBF,control,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-16T21:55:00
+P-880B4FBF,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-16T21:55:00
+P-880B4FBF,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T21:55:00
+P-A014A439,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T07:36:00
+P-A014A439,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-16T07:36:00
+P-A014A439,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-16T07:36:00
+P-A014A439,control,trust_in_automation,3,The AI assistant was competent at the task.,1,2026-03-16T07:36:00
+P-A014A439,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T07:36:00
+P-A014A439,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T07:36:00
+P-A014A439,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-16T07:36:00
+P-9BB8D339,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T19:12:00
+P-9BB8D339,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-16T19:12:00
+P-9BB8D339,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-16T19:12:00
+P-9BB8D339,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-16T19:12:00
+P-9BB8D339,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-16T19:12:00
+P-9BB8D339,control,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T19:12:00
+P-9BB8D339,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T19:12:00
+P-D102B8B1,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-19T05:46:00
+P-D102B8B1,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-19T05:46:00
+P-D102B8B1,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-19T05:46:00
+P-D102B8B1,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-19T05:46:00
+P-D102B8B1,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-19T05:46:00
+P-D102B8B1,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-19T05:46:00
+P-D102B8B1,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-19T05:46:00
+P-5F3BCE5E,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T11:45:00
+P-5F3BCE5E,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T11:45:00
+P-5F3BCE5E,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-16T11:45:00
+P-5F3BCE5E,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-16T11:45:00
+P-5F3BCE5E,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T11:45:00
+P-5F3BCE5E,control,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-16T11:45:00
+P-5F3BCE5E,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-16T11:45:00
+P-9CE0A2AF,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-18T14:27:00
+P-9CE0A2AF,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-18T14:27:00
+P-9CE0A2AF,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-18T14:27:00
+P-9CE0A2AF,control,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-18T14:27:00
+P-9CE0A2AF,control,trust_in_automation,4,I could depend on the AI assistant.,1,2026-03-18T14:27:00
+P-9CE0A2AF,control,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-18T14:27:00
+P-9CE0A2AF,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-18T14:27:00
+P-AF1BE1FC,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T19:53:00
+P-AF1BE1FC,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-16T19:53:00
+P-AF1BE1FC,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T19:53:00
+P-AF1BE1FC,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-16T19:53:00
+P-AF1BE1FC,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T19:53:00
+P-AF1BE1FC,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T19:53:00
+P-AF1BE1FC,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T19:53:00
+P-ADDF9D71,control,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-18T12:42:00
+P-ADDF9D71,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-18T12:42:00
+P-ADDF9D71,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-18T12:42:00
+P-ADDF9D71,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T12:42:00
+P-ADDF9D71,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-18T12:42:00
+P-ADDF9D71,control,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-18T12:42:00
+P-ADDF9D71,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-18T12:42:00
+P-E47E9B38,control,trust_in_automation,0,The AI assistant was reliable.,1,2026-03-22T14:17:00
+P-E47E9B38,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T14:17:00
+P-E47E9B38,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-22T14:17:00
+P-E47E9B38,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-22T14:17:00
+P-E47E9B38,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-22T14:17:00
+P-E47E9B38,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T14:17:00
+P-E47E9B38,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-22T14:17:00
+P-668BBF9F,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-19T21:08:00
+P-668BBF9F,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T21:08:00
+P-668BBF9F,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-19T21:08:00
+P-668BBF9F,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-19T21:08:00
+P-668BBF9F,control,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-19T21:08:00
+P-668BBF9F,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-19T21:08:00
+P-668BBF9F,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-19T21:08:00
+P-BCEA45E4,control,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-22T17:32:00
+P-BCEA45E4,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-22T17:32:00
+P-BCEA45E4,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-22T17:32:00
+P-BCEA45E4,control,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-22T17:32:00
+P-BCEA45E4,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T17:32:00
+P-BCEA45E4,control,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T17:32:00
+P-BCEA45E4,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-22T17:32:00
+P-4D3E8BBD,control,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-21T04:54:00
+P-4D3E8BBD,control,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-21T04:54:00
+P-4D3E8BBD,control,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-21T04:54:00
+P-4D3E8BBD,control,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-21T04:54:00
+P-4D3E8BBD,control,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-21T04:54:00
+P-4D3E8BBD,control,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-21T04:54:00
+P-4D3E8BBD,control,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-21T04:54:00
+P-A436E55A,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-20T00:58:00
+P-A436E55A,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T00:58:00
+P-A436E55A,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T00:58:00
+P-A436E55A,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-20T00:58:00
+P-A436E55A,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-20T00:58:00
+P-A436E55A,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T00:58:00
+P-A436E55A,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-20T00:58:00
+P-8B754FA2,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-15T17:52:00
+P-8B754FA2,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-15T17:52:00
+P-8B754FA2,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-15T17:52:00
+P-8B754FA2,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-15T17:52:00
+P-8B754FA2,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-15T17:52:00
+P-8B754FA2,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-15T17:52:00
+P-8B754FA2,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-15T17:52:00
+P-FFD1EE9B,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T06:36:00
+P-FFD1EE9B,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,5,2026-03-16T06:36:00
+P-FFD1EE9B,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T06:36:00
+P-FFD1EE9B,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-16T06:36:00
+P-FFD1EE9B,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-16T06:36:00
+P-FFD1EE9B,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T06:36:00
+P-FFD1EE9B,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T06:36:00
+P-063539FD,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-23T22:53:00
+P-063539FD,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-23T22:53:00
+P-063539FD,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T22:53:00
+P-063539FD,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-23T22:53:00
+P-063539FD,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-23T22:53:00
+P-063539FD,humanlike,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-23T22:53:00
+P-063539FD,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-23T22:53:00
+P-4F2ECA2D,humanlike,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-17T15:55:00
+P-4F2ECA2D,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-17T15:55:00
+P-4F2ECA2D,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-17T15:55:00
+P-4F2ECA2D,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-17T15:55:00
+P-4F2ECA2D,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-17T15:55:00
+P-4F2ECA2D,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-17T15:55:00
+P-4F2ECA2D,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-17T15:55:00
+P-7E0F099B,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-20T13:49:00
+P-7E0F099B,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-20T13:49:00
+P-7E0F099B,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T13:49:00
+P-7E0F099B,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-20T13:49:00
+P-7E0F099B,humanlike,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-20T13:49:00
+P-7E0F099B,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T13:49:00
+P-7E0F099B,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-20T13:49:00
+P-CD14315D,humanlike,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-18T20:12:00
+P-CD14315D,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-18T20:12:00
+P-CD14315D,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-18T20:12:00
+P-CD14315D,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T20:12:00
+P-CD14315D,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-18T20:12:00
+P-CD14315D,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-18T20:12:00
+P-CD14315D,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-18T20:12:00
+P-9CBDEDFB,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-21T22:10:00
+P-9CBDEDFB,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-21T22:10:00
+P-9CBDEDFB,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-21T22:10:00
+P-9CBDEDFB,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-21T22:10:00
+P-9CBDEDFB,humanlike,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-21T22:10:00
+P-9CBDEDFB,humanlike,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-21T22:10:00
+P-9CBDEDFB,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-21T22:10:00
+P-2DF8BC90,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-24T16:03:00
+P-2DF8BC90,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-24T16:03:00
+P-2DF8BC90,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-24T16:03:00
+P-2DF8BC90,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-24T16:03:00
+P-2DF8BC90,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-24T16:03:00
+P-2DF8BC90,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-24T16:03:00
+P-2DF8BC90,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-24T16:03:00
+P-B24A5E42,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-20T13:46:00
+P-B24A5E42,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T13:46:00
+P-B24A5E42,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-20T13:46:00
+P-B24A5E42,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-20T13:46:00
+P-B24A5E42,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-20T13:46:00
+P-B24A5E42,humanlike,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-20T13:46:00
+P-B24A5E42,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-20T13:46:00
+P-9031E4A3,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-20T10:58:00
+P-9031E4A3,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-20T10:58:00
+P-9031E4A3,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T10:58:00
+P-9031E4A3,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-20T10:58:00
+P-9031E4A3,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-20T10:58:00
+P-9031E4A3,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T10:58:00
+P-9031E4A3,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-20T10:58:00
+P-649798A0,humanlike,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-16T01:30:00
+P-649798A0,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T01:30:00
+P-649798A0,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-16T01:30:00
+P-649798A0,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-16T01:30:00
+P-649798A0,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-16T01:30:00
+P-649798A0,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T01:30:00
+P-649798A0,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-16T01:30:00
+P-89342D3D,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-21T14:23:00
+P-89342D3D,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-21T14:23:00
+P-89342D3D,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-21T14:23:00
+P-89342D3D,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-21T14:23:00
+P-89342D3D,humanlike,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-21T14:23:00
+P-89342D3D,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-21T14:23:00
+P-89342D3D,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-21T14:23:00
+P-E018D64A,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-22T21:16:00
+P-E018D64A,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T21:16:00
+P-E018D64A,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-22T21:16:00
+P-E018D64A,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-22T21:16:00
+P-E018D64A,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T21:16:00
+P-E018D64A,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T21:16:00
+P-E018D64A,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,1,2026-03-22T21:16:00
+P-9EBF7239,humanlike,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-22T01:17:00
+P-9EBF7239,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-22T01:17:00
+P-9EBF7239,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-22T01:17:00
+P-9EBF7239,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-22T01:17:00
+P-9EBF7239,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T01:17:00
+P-9EBF7239,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T01:17:00
+P-9EBF7239,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-22T01:17:00
+P-7B87DC71,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-18T04:59:00
+P-7B87DC71,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T04:59:00
+P-7B87DC71,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-18T04:59:00
+P-7B87DC71,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T04:59:00
+P-7B87DC71,humanlike,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-18T04:59:00
+P-7B87DC71,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-18T04:59:00
+P-7B87DC71,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-18T04:59:00
+P-79602E86,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-19T12:43:00
+P-79602E86,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-19T12:43:00
+P-79602E86,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-19T12:43:00
+P-79602E86,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-19T12:43:00
+P-79602E86,humanlike,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-19T12:43:00
+P-79602E86,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-19T12:43:00
+P-79602E86,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-19T12:43:00
+P-A367284B,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-20T11:00:00
+P-A367284B,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T11:00:00
+P-A367284B,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-20T11:00:00
+P-A367284B,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-20T11:00:00
+P-A367284B,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-20T11:00:00
+P-A367284B,humanlike,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-20T11:00:00
+P-A367284B,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-20T11:00:00
+P-9330B13C,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T00:45:00
+P-9330B13C,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,5,2026-03-16T00:45:00
+P-9330B13C,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T00:45:00
+P-9330B13C,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-16T00:45:00
+P-9330B13C,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-16T00:45:00
+P-9330B13C,humanlike,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-16T00:45:00
+P-9330B13C,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,1,2026-03-16T00:45:00
+P-F354C175,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-17T23:00:00
+P-F354C175,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-17T23:00:00
+P-F354C175,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-17T23:00:00
+P-F354C175,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-17T23:00:00
+P-F354C175,humanlike,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-17T23:00:00
+P-F354C175,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-17T23:00:00
+P-F354C175,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-17T23:00:00
+P-24C2B1C6,humanlike,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-19T14:06:00
+P-24C2B1C6,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T14:06:00
+P-24C2B1C6,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T14:06:00
+P-24C2B1C6,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-19T14:06:00
+P-24C2B1C6,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-19T14:06:00
+P-24C2B1C6,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-19T14:06:00
+P-24C2B1C6,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-19T14:06:00
+P-6F841832,humanlike,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-21T17:58:00
+P-6F841832,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-21T17:58:00
+P-6F841832,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-21T17:58:00
+P-6F841832,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-21T17:58:00
+P-6F841832,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-21T17:58:00
+P-6F841832,humanlike,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-21T17:58:00
+P-6F841832,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-21T17:58:00
+P-10BB80E1,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-20T01:19:00
+P-10BB80E1,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-20T01:19:00
+P-10BB80E1,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-20T01:19:00
+P-10BB80E1,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-20T01:19:00
+P-10BB80E1,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-20T01:19:00
+P-10BB80E1,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T01:19:00
+P-10BB80E1,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-20T01:19:00
+P-A502FE70,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-25T00:46:00
+P-A502FE70,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-25T00:46:00
+P-A502FE70,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-25T00:46:00
+P-A502FE70,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-25T00:46:00
+P-A502FE70,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-25T00:46:00
+P-A502FE70,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-25T00:46:00
+P-A502FE70,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-25T00:46:00
+P-E411270A,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T03:32:00
+P-E411270A,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-16T03:32:00
+P-E411270A,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T03:32:00
+P-E411270A,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-16T03:32:00
+P-E411270A,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-16T03:32:00
+P-E411270A,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T03:32:00
+P-E411270A,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T03:32:00
+P-CD33357C,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T00:17:00
+P-CD33357C,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-16T00:17:00
+P-CD33357C,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T00:17:00
+P-CD33357C,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-16T00:17:00
+P-CD33357C,humanlike,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T00:17:00
+P-CD33357C,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T00:17:00
+P-CD33357C,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-16T00:17:00
+P-2CDA99CC,humanlike,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-20T06:39:00
+P-2CDA99CC,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-20T06:39:00
+P-2CDA99CC,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T06:39:00
+P-2CDA99CC,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-20T06:39:00
+P-2CDA99CC,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-20T06:39:00
+P-2CDA99CC,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T06:39:00
+P-2CDA99CC,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-20T06:39:00
+P-5EE23072,humanlike,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-18T16:59:00
+P-5EE23072,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T16:59:00
+P-5EE23072,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-18T16:59:00
+P-5EE23072,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T16:59:00
+P-5EE23072,humanlike,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-18T16:59:00
+P-5EE23072,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-18T16:59:00
+P-5EE23072,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-18T16:59:00
+P-32D79D36,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-20T02:28:00
+P-32D79D36,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,5,2026-03-20T02:28:00
+P-32D79D36,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T02:28:00
+P-32D79D36,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-20T02:28:00
+P-32D79D36,humanlike,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-20T02:28:00
+P-32D79D36,humanlike,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-20T02:28:00
+P-32D79D36,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,1,2026-03-20T02:28:00
+P-ACB4C1B8,humanlike,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T20:58:00
+P-ACB4C1B8,humanlike,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-22T20:58:00
+P-ACB4C1B8,humanlike,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-22T20:58:00
+P-ACB4C1B8,humanlike,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-22T20:58:00
+P-ACB4C1B8,humanlike,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-22T20:58:00
+P-ACB4C1B8,humanlike,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T20:58:00
+P-ACB4C1B8,humanlike,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-22T20:58:00
+P-FA126171,authority,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-17T07:46:00
+P-FA126171,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-17T07:46:00
+P-FA126171,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-17T07:46:00
+P-FA126171,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-17T07:46:00
+P-FA126171,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-17T07:46:00
+P-FA126171,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-17T07:46:00
+P-FA126171,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-17T07:46:00
+P-254EFDC9,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-19T12:05:00
+P-254EFDC9,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T12:05:00
+P-254EFDC9,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T12:05:00
+P-254EFDC9,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-19T12:05:00
+P-254EFDC9,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-19T12:05:00
+P-254EFDC9,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-19T12:05:00
+P-254EFDC9,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-19T12:05:00
+P-EBEAA41B,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-25T02:52:00
+P-EBEAA41B,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-25T02:52:00
+P-EBEAA41B,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-25T02:52:00
+P-EBEAA41B,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-25T02:52:00
+P-EBEAA41B,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-25T02:52:00
+P-EBEAA41B,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-25T02:52:00
+P-EBEAA41B,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-25T02:52:00
+P-608DB04F,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-23T19:54:00
+P-608DB04F,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-23T19:54:00
+P-608DB04F,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T19:54:00
+P-608DB04F,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-23T19:54:00
+P-608DB04F,authority,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-23T19:54:00
+P-608DB04F,authority,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-23T19:54:00
+P-608DB04F,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-23T19:54:00
+P-844CAEC6,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-22T23:29:00
+P-844CAEC6,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-22T23:29:00
+P-844CAEC6,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-22T23:29:00
+P-844CAEC6,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-22T23:29:00
+P-844CAEC6,authority,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-22T23:29:00
+P-844CAEC6,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-22T23:29:00
+P-844CAEC6,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-22T23:29:00
+P-B5AB6FE6,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-15T21:52:00
+P-B5AB6FE6,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-15T21:52:00
+P-B5AB6FE6,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-15T21:52:00
+P-B5AB6FE6,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-15T21:52:00
+P-B5AB6FE6,authority,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-15T21:52:00
+P-B5AB6FE6,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-15T21:52:00
+P-B5AB6FE6,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-15T21:52:00
+P-5FF0C765,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-21T05:42:00
+P-5FF0C765,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-21T05:42:00
+P-5FF0C765,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-21T05:42:00
+P-5FF0C765,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-21T05:42:00
+P-5FF0C765,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-21T05:42:00
+P-5FF0C765,authority,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-21T05:42:00
+P-5FF0C765,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-21T05:42:00
+P-6E676BE8,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-17T01:22:00
+P-6E676BE8,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,5,2026-03-17T01:22:00
+P-6E676BE8,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-17T01:22:00
+P-6E676BE8,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-17T01:22:00
+P-6E676BE8,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-17T01:22:00
+P-6E676BE8,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-17T01:22:00
+P-6E676BE8,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-17T01:22:00
+P-576C47F7,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T01:14:00
+P-576C47F7,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T01:14:00
+P-576C47F7,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-22T01:14:00
+P-576C47F7,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-22T01:14:00
+P-576C47F7,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T01:14:00
+P-576C47F7,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-22T01:14:00
+P-576C47F7,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-22T01:14:00
+P-9220C198,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T16:12:00
+P-9220C198,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T16:12:00
+P-9220C198,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T16:12:00
+P-9220C198,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-16T16:12:00
+P-9220C198,authority,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-16T16:12:00
+P-9220C198,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T16:12:00
+P-9220C198,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T16:12:00
+P-41B56CE3,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-15T13:16:00
+P-41B56CE3,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,5,2026-03-15T13:16:00
+P-41B56CE3,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-15T13:16:00
+P-41B56CE3,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-15T13:16:00
+P-41B56CE3,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-15T13:16:00
+P-41B56CE3,authority,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-15T13:16:00
+P-41B56CE3,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-15T13:16:00
+P-CD7B816A,authority,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-20T06:52:00
+P-CD7B816A,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T06:52:00
+P-CD7B816A,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T06:52:00
+P-CD7B816A,authority,trust_in_automation,3,The AI assistant was competent at the task.,5,2026-03-20T06:52:00
+P-CD7B816A,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-20T06:52:00
+P-CD7B816A,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T06:52:00
+P-CD7B816A,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-20T06:52:00
+P-F0DC0087,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-17T19:08:00
+P-F0DC0087,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-17T19:08:00
+P-F0DC0087,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-17T19:08:00
+P-F0DC0087,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-17T19:08:00
+P-F0DC0087,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-17T19:08:00
+P-F0DC0087,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-17T19:08:00
+P-F0DC0087,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,1,2026-03-17T19:08:00
+P-A083DC69,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-18T02:04:00
+P-A083DC69,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T02:04:00
+P-A083DC69,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-18T02:04:00
+P-A083DC69,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T02:04:00
+P-A083DC69,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-18T02:04:00
+P-A083DC69,authority,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-18T02:04:00
+P-A083DC69,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-18T02:04:00
+P-2F777597,authority,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-19T04:31:00
+P-2F777597,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T04:31:00
+P-2F777597,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T04:31:00
+P-2F777597,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-19T04:31:00
+P-2F777597,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-19T04:31:00
+P-2F777597,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-19T04:31:00
+P-2F777597,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-19T04:31:00
+P-B78DECDD,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-17T14:55:00
+P-B78DECDD,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-17T14:55:00
+P-B78DECDD,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-17T14:55:00
+P-B78DECDD,authority,trust_in_automation,3,The AI assistant was competent at the task.,5,2026-03-17T14:55:00
+P-B78DECDD,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-17T14:55:00
+P-B78DECDD,authority,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-17T14:55:00
+P-B78DECDD,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-17T14:55:00
+P-D91EB552,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-25T02:36:00
+P-D91EB552,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-25T02:36:00
+P-D91EB552,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-25T02:36:00
+P-D91EB552,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-25T02:36:00
+P-D91EB552,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-25T02:36:00
+P-D91EB552,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-25T02:36:00
+P-D91EB552,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-25T02:36:00
+P-0247DA40,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-24T09:01:00
+P-0247DA40,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-24T09:01:00
+P-0247DA40,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-24T09:01:00
+P-0247DA40,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-24T09:01:00
+P-0247DA40,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-24T09:01:00
+P-0247DA40,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-24T09:01:00
+P-0247DA40,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-24T09:01:00
+P-49F80349,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-25T05:22:00
+P-49F80349,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-25T05:22:00
+P-49F80349,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-25T05:22:00
+P-49F80349,authority,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-25T05:22:00
+P-49F80349,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-25T05:22:00
+P-49F80349,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-25T05:22:00
+P-49F80349,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-25T05:22:00
+P-5BA12F91,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-15T20:14:00
+P-5BA12F91,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-15T20:14:00
+P-5BA12F91,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-15T20:14:00
+P-5BA12F91,authority,trust_in_automation,3,The AI assistant was competent at the task.,5,2026-03-15T20:14:00
+P-5BA12F91,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-15T20:14:00
+P-5BA12F91,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-15T20:14:00
+P-5BA12F91,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-15T20:14:00
+P-B15E881C,authority,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-21T01:09:00
+P-B15E881C,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-21T01:09:00
+P-B15E881C,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-21T01:09:00
+P-B15E881C,authority,trust_in_automation,3,The AI assistant was competent at the task.,5,2026-03-21T01:09:00
+P-B15E881C,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-21T01:09:00
+P-B15E881C,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-21T01:09:00
+P-B15E881C,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-21T01:09:00
+P-84302E06,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T00:47:00
+P-84302E06,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T00:47:00
+P-84302E06,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T00:47:00
+P-84302E06,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-16T00:47:00
+P-84302E06,authority,trust_in_automation,4,I could depend on the AI assistant.,5,2026-03-16T00:47:00
+P-84302E06,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T00:47:00
+P-84302E06,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T00:47:00
+P-55AEF1A2,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-19T16:35:00
+P-55AEF1A2,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T16:35:00
+P-55AEF1A2,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-19T16:35:00
+P-55AEF1A2,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-19T16:35:00
+P-55AEF1A2,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-19T16:35:00
+P-55AEF1A2,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-19T16:35:00
+P-55AEF1A2,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-19T16:35:00
+P-F1A662AF,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T17:46:00
+P-F1A662AF,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-22T17:46:00
+P-F1A662AF,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-22T17:46:00
+P-F1A662AF,authority,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-22T17:46:00
+P-F1A662AF,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T17:46:00
+P-F1A662AF,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-22T17:46:00
+P-F1A662AF,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-22T17:46:00
+P-84BFFB0F,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T14:57:00
+P-84BFFB0F,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T14:57:00
+P-84BFFB0F,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T14:57:00
+P-84BFFB0F,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-16T14:57:00
+P-84BFFB0F,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-16T14:57:00
+P-84BFFB0F,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T14:57:00
+P-84BFFB0F,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T14:57:00
+P-B73B979D,authority,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-17T02:49:00
+P-B73B979D,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-17T02:49:00
+P-B73B979D,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-17T02:49:00
+P-B73B979D,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-17T02:49:00
+P-B73B979D,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-17T02:49:00
+P-B73B979D,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-17T02:49:00
+P-B73B979D,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-17T02:49:00
+P-39E7C6A0,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-18T15:19:00
+P-39E7C6A0,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-18T15:19:00
+P-39E7C6A0,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-18T15:19:00
+P-39E7C6A0,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-18T15:19:00
+P-39E7C6A0,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-18T15:19:00
+P-39E7C6A0,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-18T15:19:00
+P-39E7C6A0,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-18T15:19:00
+P-0EB6FA17,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-15T18:52:00
+P-0EB6FA17,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-15T18:52:00
+P-0EB6FA17,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-15T18:52:00
+P-0EB6FA17,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-15T18:52:00
+P-0EB6FA17,authority,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-15T18:52:00
+P-0EB6FA17,authority,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-15T18:52:00
+P-0EB6FA17,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-15T18:52:00
+P-C5C6851F,authority,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-19T21:17:00
+P-C5C6851F,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-19T21:17:00
+P-C5C6851F,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T21:17:00
+P-C5C6851F,authority,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-19T21:17:00
+P-C5C6851F,authority,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-19T21:17:00
+P-C5C6851F,authority,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-19T21:17:00
+P-C5C6851F,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-19T21:17:00
+P-E5EC17EE,authority,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-21T00:51:00
+P-E5EC17EE,authority,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-21T00:51:00
+P-E5EC17EE,authority,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-21T00:51:00
+P-E5EC17EE,authority,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-21T00:51:00
+P-E5EC17EE,authority,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-21T00:51:00
+P-E5EC17EE,authority,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-21T00:51:00
+P-E5EC17EE,authority,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-21T00:51:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-23T19:41:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-23T19:41:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-23T19:41:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T19:41:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-23T19:41:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-23T19:41:00
+P-7D06B8AA,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,5,2026-03-23T19:41:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-20T09:42:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T09:42:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-20T09:42:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-20T09:42:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-20T09:42:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-20T09:42:00
+P-A3AADDEF,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-20T09:42:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-23T21:50:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-23T21:50:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T21:50:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-23T21:50:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-23T21:50:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-23T21:50:00
+P-4BA91775,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-23T21:50:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-16T08:13:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T08:13:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-16T08:13:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-16T08:13:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T08:13:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-16T08:13:00
+P-09A4FBFA,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-16T08:13:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-20T03:18:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T03:18:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-20T03:18:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-20T03:18:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-20T03:18:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T03:18:00
+P-B2EB6A16,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-20T03:18:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-25T06:00:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-25T06:00:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-25T06:00:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-25T06:00:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-25T06:00:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-25T06:00:00
+P-65F7D0F6,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-25T06:00:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-15T15:43:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-15T15:43:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-15T15:43:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-15T15:43:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-15T15:43:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-15T15:43:00
+P-8BE90113,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-15T15:43:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-18T21:52:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-18T21:52:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-18T21:52:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T21:52:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-18T21:52:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-18T21:52:00
+P-D90D9A76,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-18T21:52:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-17T02:27:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-17T02:27:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-17T02:27:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-17T02:27:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-17T02:27:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-17T02:27:00
+P-E3D0179A,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,1,2026-03-17T02:27:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-23T22:28:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-23T22:28:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T22:28:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T22:28:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-23T22:28:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-23T22:28:00
+P-C9DF0DF4,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-23T22:28:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T12:44:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T12:44:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-22T12:44:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-22T12:44:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T12:44:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-22T12:44:00
+P-D09355CE,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-22T12:44:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-23T22:45:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-23T22:45:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-23T22:45:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-23T22:45:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-23T22:45:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-23T22:45:00
+P-0DBB64A0,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-23T22:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T02:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-16T02:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T02:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-16T02:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T02:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-16T02:45:00
+P-C8460478,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-16T02:45:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-19T15:40:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T15:40:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T15:40:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-19T15:40:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-19T15:40:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-19T15:40:00
+P-53D63D75,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-19T15:40:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-21T04:50:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-21T04:50:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-21T04:50:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-21T04:50:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-21T04:50:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-21T04:50:00
+P-D3D35FE0,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-21T04:50:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-18T19:22:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-18T19:22:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-18T19:22:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-18T19:22:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-18T19:22:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-18T19:22:00
+P-57CC0C7A,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-18T19:22:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-19T14:15:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T14:15:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,5,2026-03-19T14:15:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-19T14:15:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-19T14:15:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-19T14:15:00
+P-62B1B1D4,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-19T14:15:00
+P-5F181568,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T22:11:00
+P-5F181568,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,4,2026-03-22T22:11:00
+P-5F181568,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-22T22:11:00
+P-5F181568,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,5,2026-03-22T22:11:00
+P-5F181568,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-22T22:11:00
+P-5F181568,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-22T22:11:00
+P-5F181568,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,5,2026-03-22T22:11:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-15T10:22:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-15T10:22:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-15T10:22:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-15T10:22:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-15T10:22:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,1,2026-03-15T10:22:00
+P-7F3B7EA1,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,5,2026-03-15T10:22:00
+P-C523343E,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-21T18:14:00
+P-C523343E,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-21T18:14:00
+P-C523343E,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-21T18:14:00
+P-C523343E,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-21T18:14:00
+P-C523343E,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-21T18:14:00
+P-C523343E,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-21T18:14:00
+P-C523343E,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-21T18:14:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-20T10:18:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-20T10:18:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-20T10:18:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,1,2026-03-20T10:18:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,4,2026-03-20T10:18:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-20T10:18:00
+P-2E7A27A5,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-20T10:18:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,5,2026-03-16T08:10:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T08:10:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T08:10:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-16T08:10:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-16T08:10:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T08:10:00
+P-D08B2048,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-16T08:10:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-19T18:14:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-19T18:14:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T18:14:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-19T18:14:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-19T18:14:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-19T18:14:00
+P-B85BE3FE,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,5,2026-03-19T18:14:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-16T16:12:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-16T16:12:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-16T16:12:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,1,2026-03-16T16:12:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-16T16:12:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-16T16:12:00
+P-116EE4C4,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-16T16:12:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-23T07:18:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-23T07:18:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-23T07:18:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-23T07:18:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-23T07:18:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-23T07:18:00
+P-26B7C145,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-23T07:18:00
+P-0763681C,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,2,2026-03-22T17:04:00
+P-0763681C,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-22T17:04:00
+P-0763681C,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,4,2026-03-22T17:04:00
+P-0763681C,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,4,2026-03-22T17:04:00
+P-0763681C,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T17:04:00
+P-0763681C,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,2,2026-03-22T17:04:00
+P-0763681C,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-22T17:04:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-21T21:05:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-21T21:05:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,2,2026-03-21T21:05:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-21T21:05:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-21T21:05:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-21T21:05:00
+P-A08C7F7C,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-21T21:05:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T00:30:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T00:30:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-22T00:30:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,2,2026-03-22T00:30:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-22T00:30:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,3,2026-03-22T00:30:00
+P-E2F64A96,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,4,2026-03-22T00:30:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,4,2026-03-19T04:00:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,2,2026-03-19T04:00:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,3,2026-03-19T04:00:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-19T04:00:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,2,2026-03-19T04:00:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,5,2026-03-19T04:00:00
+P-F7ADEBDA,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,2,2026-03-19T04:00:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,0,The AI assistant was reliable.,3,2026-03-22T04:05:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,1,I could trust the AI assistant's recommendations.,3,2026-03-22T04:05:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,2,I felt confident in the AI assistant's judgments.,1,2026-03-22T04:05:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,3,The AI assistant was competent at the task.,3,2026-03-22T04:05:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,4,I could depend on the AI assistant.,3,2026-03-22T04:05:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,5,The AI assistant was predictable.,4,2026-03-22T04:05:00
+P-053DE3D3,humanlike_calibrated,trust_in_automation,6,I was suspicious of the AI assistant's recommendations.,3,2026-03-22T04:05:00
