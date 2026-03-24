@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import {
   Card,
@@ -22,6 +22,7 @@ interface TrialViewProps {
   totalTrials: number;
   isPracticePhase: boolean;
   onComplete: (result: TrialResult) => void;
+  onInteractionEvent?: (eventType: string, payload: Record<string, unknown>) => void;
 }
 
 export interface TrialResult {
@@ -38,9 +39,22 @@ export interface TrialResult {
   totalTrialDurationMs: number;
   scenarioData: Record<string, unknown>;
   aiConfidenceDisplay: string;
+  interactionLog: InteractionEntry[];
+}
+
+interface InteractionEntry {
+  action: string;
+  timestampMs: number;
+  detail?: string;
 }
 
 type TrialPhase = "scenario" | "decision_made" | "confidence";
+
+const AVATAR_STYLES: Record<string, { bg: string; text: string; label: string }> = {
+  system: { bg: "bg-slate-100 dark:bg-slate-800", text: "text-slate-600 dark:text-slate-300", label: "AI" },
+  human: { bg: "bg-blue-100 dark:bg-blue-900", text: "text-blue-700 dark:text-blue-300", label: "" },
+  expert: { bg: "bg-purple-100 dark:bg-purple-900", text: "text-purple-700 dark:text-purple-300", label: "" },
+};
 
 export function TrialView({
   trial,
@@ -49,11 +63,14 @@ export function TrialView({
   totalTrials,
   isPracticePhase,
   onComplete,
+  onInteractionEvent,
 }: TrialViewProps) {
   const [phase, setPhase] = useState<TrialPhase>("scenario");
   const [decision, setDecision] = useState<"accept" | "override" | null>(null);
   const [overrideChoice, setOverrideChoice] = useState<"approve" | "reject" | null>(null);
   const [confidence, setConfidence] = useState<number | null>(null);
+  const interactionLog = useRef<InteractionEntry[]>([]);
+  const hoverStart = useRef<number | null>(null);
 
   const decisionTimer = useTimer();
   const trialTimer = useTimer();
@@ -65,24 +82,76 @@ export function TrialView({
     setDecision(null);
     setOverrideChoice(null);
     setConfidence(null);
+    interactionLog.current = [];
   }, [trial.trialNumber, decisionTimer, trialTimer]);
 
+  const logInteraction = useCallback(
+    (action: string, detail?: string) => {
+      const entry: InteractionEntry = {
+        action,
+        timestampMs: trialTimer.elapsed(),
+        detail,
+      };
+      interactionLog.current.push(entry);
+      onInteractionEvent?.(action, {
+        trialNumber: trial.trialNumber,
+        detail,
+        timestampMs: entry.timestampMs,
+      });
+    },
+    [trial.trialNumber, trialTimer, onInteractionEvent]
+  );
+
+  const handleButtonHoverStart = useCallback(
+    (button: string) => {
+      hoverStart.current = trialTimer.elapsed();
+      logInteraction("decision_hover_start", button);
+    },
+    [logInteraction, trialTimer]
+  );
+
+  const handleButtonHoverEnd = useCallback(
+    (button: string) => {
+      if (hoverStart.current !== null) {
+        const durationMs = trialTimer.elapsed() - hoverStart.current;
+        logInteraction("decision_hover_end", `${button}:${durationMs}ms`);
+        hoverStart.current = null;
+      }
+    },
+    [logInteraction, trialTimer]
+  );
+
   const handleAccept = useCallback(() => {
+    if (decision === "override") {
+      logInteraction("decision_revision", "override->accept");
+    }
     setDecision("accept");
+    setOverrideChoice(null);
+    logInteraction("decision_accept");
     setPhase("confidence");
-  }, []);
+  }, [decision, logInteraction]);
 
   const handleOverride = useCallback(() => {
+    if (decision === "accept") {
+      logInteraction("decision_revision", "accept->override");
+    }
     setDecision("override");
-  }, []);
+    logInteraction("decision_override_start");
+  }, [decision, logInteraction]);
 
-  const handleOverrideChoice = useCallback((choice: "approve" | "reject") => {
-    setOverrideChoice(choice);
-    setPhase("confidence");
-  }, []);
+  const handleOverrideChoice = useCallback(
+    (choice: "approve" | "reject") => {
+      setOverrideChoice(choice);
+      logInteraction("override_choice", choice);
+      setPhase("confidence");
+    },
+    [logInteraction]
+  );
 
   const handleSubmit = useCallback(() => {
     if (!decision) return;
+
+    logInteraction("trial_submit");
 
     const result: TrialResult = {
       trialNumber: trial.trialNumber,
@@ -98,17 +167,18 @@ export function TrialView({
       totalTrialDurationMs: trialTimer.elapsed(),
       scenarioData: trial.scenario as unknown as Record<string, unknown>,
       aiConfidenceDisplay: trial.aiMessage.confidence,
+      interactionLog: [...interactionLog.current],
     };
 
     onComplete(result);
-  }, [decision, overrideChoice, confidence, trial, decisionTimer, trialTimer, onComplete]);
+  }, [decision, overrideChoice, confidence, trial, decisionTimer, trialTimer, onComplete, logInteraction]);
 
   const progressPercent = ((currentIndex + 1) / totalTrials) * 100;
   const scenario = trial.scenario;
+  const avatarStyle = AVATAR_STYLES[cueConfig.agentAvatar] || AVATAR_STYLES.system;
 
   return (
     <div className="max-w-4xl mx-auto space-y-4">
-      {/* Progress bar */}
       <div className="space-y-1">
         <div className="flex justify-between text-sm text-muted-foreground">
           <span>
@@ -124,7 +194,6 @@ export function TrialView({
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-5 gap-4">
-        {/* Scenario Card (left / top) */}
         <div className="lg:col-span-3">
           <Card>
             <CardHeader className="pb-3">
@@ -174,20 +243,27 @@ export function TrialView({
           </Card>
         </div>
 
-        {/* AI Recommendation + Decision Panel (right / bottom) */}
         <div className="lg:col-span-2 space-y-4">
-          {/* AI Recommendation */}
           <Card className="border-blue-200 bg-blue-50/50 dark:border-blue-900 dark:bg-blue-950/20">
             <CardHeader className="pb-2">
               <div className="flex items-center gap-2">
-                <div className="h-8 w-8 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center text-sm font-bold text-blue-700 dark:text-blue-300">
-                  {cueConfig.agentAvatar === "system"
-                    ? "AI"
-                    : cueConfig.agentName.charAt(0)}
+                <div
+                  className={`h-8 w-8 rounded-full ${avatarStyle.bg} flex items-center justify-center text-sm font-bold ${avatarStyle.text}`}
+                >
+                  {avatarStyle.label || cueConfig.agentName.charAt(0)}
                 </div>
-                <CardTitle className="text-sm font-semibold">
-                  {cueConfig.agentName}
-                </CardTitle>
+                <div>
+                  <CardTitle className="text-sm font-semibold">
+                    {cueConfig.agentName}
+                  </CardTitle>
+                  {cueConfig.roleSource && cueConfig.roleSource !== "unspecified" && (
+                    <p className="text-xs text-muted-foreground">
+                      {cueConfig.roleSource === "algorithm"
+                        ? "Algorithmic Analysis"
+                        : "Expert-Trained Model"}
+                    </p>
+                  )}
+                </div>
               </div>
             </CardHeader>
             <CardContent>
@@ -209,7 +285,6 @@ export function TrialView({
             </CardContent>
           </Card>
 
-          {/* Decision Buttons */}
           <Card>
             <CardContent className="pt-6 space-y-3">
               {phase === "scenario" && (
@@ -219,6 +294,8 @@ export function TrialView({
                   </p>
                   <Button
                     onClick={handleAccept}
+                    onMouseEnter={() => handleButtonHoverStart("accept")}
+                    onMouseLeave={() => handleButtonHoverEnd("accept")}
                     className="w-full"
                     size="lg"
                     variant="default"
@@ -227,6 +304,8 @@ export function TrialView({
                   </Button>
                   <Button
                     onClick={handleOverride}
+                    onMouseEnter={() => handleButtonHoverStart("override")}
+                    onMouseLeave={() => handleButtonHoverEnd("override")}
                     className="w-full"
                     size="lg"
                     variant="outline"
@@ -244,6 +323,8 @@ export function TrialView({
                   <div className="grid grid-cols-2 gap-2">
                     <Button
                       onClick={() => handleOverrideChoice("approve")}
+                      onMouseEnter={() => handleButtonHoverStart("override_approve")}
+                      onMouseLeave={() => handleButtonHoverEnd("override_approve")}
                       variant="outline"
                       className="border-green-300 hover:bg-green-50 dark:border-green-800 dark:hover:bg-green-950"
                     >
@@ -251,6 +332,8 @@ export function TrialView({
                     </Button>
                     <Button
                       onClick={() => handleOverrideChoice("reject")}
+                      onMouseEnter={() => handleButtonHoverStart("override_reject")}
+                      onMouseLeave={() => handleButtonHoverEnd("override_reject")}
                       variant="outline"
                       className="border-red-300 hover:bg-red-50 dark:border-red-800 dark:hover:bg-red-950"
                     >
@@ -271,6 +354,17 @@ export function TrialView({
                           : `Override (${overrideChoice})`}
                       </Badge>
                     </p>
+                    {phase === "confidence" && decision && (
+                      <button
+                        onClick={() => {
+                          logInteraction("decision_change_requested");
+                          setPhase("scenario");
+                        }}
+                        className="text-xs text-muted-foreground underline hover:text-foreground transition-colors"
+                      >
+                        Change my decision
+                      </button>
+                    )}
                   </div>
 
                   <Separator />
@@ -282,7 +376,10 @@ export function TrialView({
                     {[1, 2, 3, 4, 5].map((val) => (
                       <button
                         key={val}
-                        onClick={() => setConfidence(val)}
+                        onClick={() => {
+                          setConfidence(val);
+                          logInteraction("confidence_selected", String(val));
+                        }}
                         className={`w-10 h-10 rounded-full text-sm font-medium border transition-all ${
                           confidence === val
                             ? "bg-primary text-primary-foreground border-primary scale-110"

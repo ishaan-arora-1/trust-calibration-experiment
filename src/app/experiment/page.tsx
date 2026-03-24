@@ -7,11 +7,18 @@ import { Instructions } from "@/components/experiment/Instructions";
 import { TrialView } from "@/components/experiment/TrialView";
 import type { TrialResult } from "@/components/experiment/TrialView";
 import { Debrief } from "@/components/experiment/Debrief";
-import { useState } from "react";
+import { useState, useCallback } from "react";
 
 export default function ExperimentPage() {
   const experiment = useExperiment();
   const [loading, setLoading] = useState(false);
+
+  const handleInteractionEvent = useCallback(
+    (eventType: string, payload: Record<string, unknown>) => {
+      experiment.logEvent(eventType, payload);
+    },
+    [experiment]
+  );
 
   const handleConsent = () => {
     experiment.setPhase("demographics");
@@ -55,7 +62,18 @@ export default function ExperimentPage() {
       trialNumber: result.trialNumber,
       decision: result.participantDecision,
       latencyMs: result.decisionLatencyMs,
+      interactionCount: result.interactionLog.length,
+      hadRevision: result.interactionLog.some(
+        (e) => e.action === "decision_revision" || e.action === "decision_change_requested"
+      ),
     });
+
+    if (result.interactionLog.length > 0) {
+      await experiment.logEvent("trial_interactions", {
+        trialNumber: result.trialNumber,
+        interactions: result.interactionLog,
+      });
+    }
 
     experiment.advanceTrial();
   };
@@ -135,6 +153,7 @@ export default function ExperimentPage() {
               totalTrials={experiment.session.totalTrials}
               isPracticePhase={experiment.phase === "practice"}
               onComplete={handleTrialComplete}
+              onInteractionEvent={handleInteractionEvent}
             />
           )}
 

@@ -1,6 +1,7 @@
 export type AgentTone = "formal" | "conversational";
 export type ConfidenceFraming = "calibrated" | "overstated";
 export type AgentAvatar = "system" | "human" | "expert";
+export type RoleSource = "algorithm" | "trained" | "unspecified";
 
 export interface CueConfig {
   agentName: string;
@@ -8,7 +9,9 @@ export interface CueConfig {
   confidenceFraming: ConfidenceFraming;
   agentGreeting: string;
   agentAvatar: AgentAvatar;
-  [key: string]: string;
+  roleSource?: RoleSource;
+  avatarColor?: string;
+  [key: string]: string | undefined;
 }
 
 export interface ConditionRecord {
