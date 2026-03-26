@@ -83,7 +83,8 @@ export function TrialView({
     setOverrideChoice(null);
     setConfidence(null);
     interactionLog.current = [];
-  }, [trial.trialNumber, decisionTimer, trialTimer]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [trial.trialNumber]);
 
   const logInteraction = useCallback(
     (action: string, detail?: string) => {

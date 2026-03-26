@@ -128,3 +128,10 @@
     @apply font-sans;
   }
 }
+
+body {
+  background-image:
+    linear-gradient(to right, oklch(0.85 0 0 / 60%) 1px, transparent 1px),
+    linear-gradient(to bottom, oklch(0.85 0 0 / 60%) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
