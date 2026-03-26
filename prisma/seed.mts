@@ -1,7 +1,8 @@
 // @ts-nocheck
 import "dotenv/config";
-import { PrismaClient } from "../src/generated/prisma/client.ts";
+import client from "../src/generated/prisma/client.ts";
 
+const { PrismaClient } = client as any;
 const prisma = new PrismaClient();
 
 const conditions = [
