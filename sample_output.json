@@ -1,0 +1,30 @@
+[
+  {
+    "participant_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "condition": "system_formal",
+    "decision": "accept",
+    "timestamp": "2026-03-26T14:12:33.421Z",
+    "latency_ms": 4823
+  },
+  {
+    "participant_id": "f9e8d7c6-b5a4-3210-fedc-ba0987654321",
+    "condition": "humanlike_conversational",
+    "decision": "reject",
+    "timestamp": "2026-03-26T14:15:07.109Z",
+    "latency_ms": 7291
+  },
+  {
+    "participant_id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+    "condition": "humanlike_conversational",
+    "decision": "accept",
+    "timestamp": "2026-03-26T14:18:44.552Z",
+    "latency_ms": 3156
+  },
+  {
+    "participant_id": "d4c3b2a1-0f9e-8d7c-6b5a-432109876543",
+    "condition": "system_formal",
+    "decision": "accept",
+    "timestamp": "2026-03-26T14:22:11.887Z",
+    "latency_ms": 5612
+  }
+]
